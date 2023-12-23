@@ -680,7 +680,7 @@
   animation: l24 1s infinite alternate linear;
 }
 
-xW .loader::before {
+.loader::before {
   content: "Loading...";
   line-height: 1em;
   color: #0000;

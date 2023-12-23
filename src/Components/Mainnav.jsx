@@ -24,7 +24,7 @@ export const Mainnav = () => {
             <div id="preloader" class=" overflow-y-hidden  position-relative loader_bg z-3">
                 <div class="bg-white vh-100 d-flex align-items-center justify-content-center  position-fixed  top-0 start-0 w-100 ">
                     <div class="loader"></div>
-                </div>
+                </div>  
             </div>
             <div className='navbg-crd py-lg-4 pb-2 ' >
                 <Container >
