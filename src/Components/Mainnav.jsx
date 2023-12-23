@@ -41,8 +41,8 @@ export const Mainnav = () => {
                             <ul id="navBar" className="d-flex align-items-center gap-3 mb-0 mobileView">
 
 
-                                <li><h1
-                                    className="text-black fs-md fw-normal nav-h ff-roboto mb-0 position-relative common-h">HOME</h1>
+                                <li><a onClick={closeNav} href='#Home'
+                                    className="text-black fs-md fw-normal nav-h ff-roboto mb-0 position-relative common-h">HOME</a>
                                 </li>
 
                                 <li><a onClick={closeNav} href="#SNEAKERS"
